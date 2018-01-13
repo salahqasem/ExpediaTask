@@ -1,2 +1,6 @@
 language: java
-script: mvn clean install
+
+deploy:
+  provider: heroku
+  api_key: b49a077f-e9f3-460e-8550-a025188bd91f
+  app: expedia-assignment
