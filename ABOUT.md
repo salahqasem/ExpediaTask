@@ -6,7 +6,7 @@
 		<ul>
 			<li> My main development experince is in Java.</li>
 			<li>Java is one of the powerfull programming languages that is globaly recognized for building scalable, relaible, cross-platfroms, and highly performing softwares.</li>
-			<li>Java provides unique architecture to serve backward compatapily.</li>
+			<li>Java provides unique architecture to serve backward compatibility.</li>
 			<li>Building webservices is simple using JAVA and Jerssy API.</li>
 		</ul>
 	</li>
